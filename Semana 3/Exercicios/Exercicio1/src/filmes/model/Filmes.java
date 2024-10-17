@@ -1,6 +1,9 @@
 /*Crie uma classe Filme. A classe deve conter os atributos titulo, ano, valor e métodos para
 recuperar o título do filme, o ano no qual foi lançado e também seu preço. */
 
+
+/*  Encapsulamento: Importante para segurança, metodos especificos.*/
+
 package filmes.model;
 
 public class Filmes {
