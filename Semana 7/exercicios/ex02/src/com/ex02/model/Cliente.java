@@ -1,6 +1,5 @@
 package com.ex02.model;
 
-
 public class Cliente{
     private String nome;
     private int idade;

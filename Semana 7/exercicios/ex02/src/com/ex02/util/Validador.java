@@ -1,4 +1,4 @@
-package com.ex01.util;
+package com.ex02.util;
 
 public class Validador {
     public static boolean isMaiorDeIdade(int idade) {
