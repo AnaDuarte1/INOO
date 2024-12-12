@@ -16,6 +16,10 @@ public class Conteudo {
     public int getDuracao() {
         return duracao;
     }
+
+    public void setTitulo(String titulo){
+        this.titulo = titulo;
+    }
 }
 
 

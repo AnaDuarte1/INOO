@@ -18,7 +18,8 @@ public class Filme extends Conteudo{
         return orcamento;
     }
 
-    public void exibirInfo() {
-        System.out.println( super.getTitulo() + ", " + super.getDuracao() + ", " + diretor + ", " + orcamento);
+    @Override
+    public String toString(){
+        return "Titulo: " + getTitulo() + getDuracao() + diretor + orcamento;
     }
 }

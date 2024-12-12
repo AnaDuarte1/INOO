@@ -17,7 +17,7 @@ public class Aluno extends Pessoas{
     public int getProntuario() {
         return prontuario;
     }
-
+    
     public void exibirInfo() {
         System.out.println( super.getNome() + ", " + super.getCpf() + ", " + curso + ", " + prontuario);
     }

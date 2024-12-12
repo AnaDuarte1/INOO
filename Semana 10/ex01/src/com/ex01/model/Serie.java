@@ -18,7 +18,8 @@ public class Serie extends Conteudo{
         return episodiosPorTemporada;
     }
 
-    public void exibirInfo() {
-        System.out.println(super.getTitulo() + ", " + super.getDuracao() + ", " + temporadas + ", " + episodiosPorTemporada);
+    @Override
+    public String toString(){
+        return "Titulo: " + getTitulo() + getDuracao() + temporadas + episodiosPorTemporada;
     }
 }
