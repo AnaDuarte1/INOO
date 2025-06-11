@@ -1,21 +1,42 @@
-# INOO
-# Disciplina de introdução a Orientada a objetos
+# 💻 INOO – Introdução à Programação Orientada a Objetos
 
-## 👩🏻‍💻 Desenvolvedoras 
-- Ana Beatriz R. Duarte ([github.com/AnaDuarte1](https://github.com/AnaDuarte1))
+Repositório dedicado à disciplina de **Introdução à Programação Orientada a Objetos**, ofertada no curso de Sistemas para Internet do **IFSP – Campus Araraquara**.
 
-## 🤝 **Como Contribuir**
+Neste espaço, estão reunidos os exercícios, projetos, anotações e demais materiais desenvolvidos ao longo da disciplina, utilizando **Java** como linguagem base para o aprendizado dos conceitos.
 
-Se você deseja contribuir para o desenvolvimento deste projeto, siga os passos abaixo:
+---
 
-1. Faça um fork deste repositório.
-2. Crie uma nova branch: `git checkout -b minha-branch`.
-3. Faça suas alterações e commit: `git commit -m 'Minhas alterações'`.
-4. Envie para o repositório remoto: `git push origin minha-branch`.
-5. Abra um Pull Request.
+## 📘 Conteúdos Abordados
 
+- Conceitos fundamentais da Programação Orientada a Objetos (POO)
+- Classes e Objetos
+- Atributos e Métodos
+- Encapsulamento
+- Construtores e Sobrecarga
+- Herança e Polimorfismo
+- Associação, Agregação e Composição
+- Classes Abstratas e Interfaces
+- Tratamento de Exceções
+- Coleções e ArrayList
+- Introdução à Arquitetura MVC
+- Exercícios práticos e mini projetos com Java
 
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
-🚀✨
+- **Java 11+**
+- **IntelliJ IDEA / Eclipse**
+- **Git e GitHub**
+- **Terminal / CMD**
 
+---
+
+## 👩🏻‍💻 Desenvolvedora
+
+- Ana Beatriz R. Duarte  
+[github.com/AnaDuarte1](https://github.com/AnaDuarte1)
+
+---
+
+> “A Orientação a Objetos nos permite pensar como arquitetos do software – construindo sistemas organizados, reutilizáveis e elegantes.” 🚀✨
